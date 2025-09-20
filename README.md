@@ -69,3 +69,7 @@ Tailwind CSS - Framework CSS
 Axios - Client HTTP
 
 React Router - Navigation
+
+-------------Env-------
+DB_DATABASE=adresseback
+
